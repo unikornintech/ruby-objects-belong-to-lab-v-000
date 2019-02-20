@@ -4,4 +4,3 @@ class Author
 end 
 
 author = Author.new
-author.name = "Uncle Bob"
