@@ -3,5 +3,4 @@ class Artist
   
 end 
 
-artist = Artist.new 
-author = Author.new 
+artist = Artist.new
